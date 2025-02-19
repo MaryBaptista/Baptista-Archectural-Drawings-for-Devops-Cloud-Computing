@@ -43,7 +43,7 @@
         <mxCell id="szb_LFwqe0KTjWJn87do-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.733;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;shadow=1;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="ujQeHG0R-6USSkuK_Hf3-4" source="szb_LFwqe0KTjWJn87do-2" target="ujQeHG0R-6USSkuK_Hf3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="szb_LFwqe0KTjWJn87do-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.267;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;flowAnimation=1;shadow=1;strokeWidth=3;" edge="1" parent="ujQeHG0R-6USSkuK_Hf3-4" source="szb_LFwqe0KTjWJn87do-2" target="ujQeHG0R-6USSkuK_Hf3-5">
+        <mxCell id="szb_LFwqe0KTjWJn87do-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.267;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;shadow=1;strokeWidth=3;" edge="1" parent="ujQeHG0R-6USSkuK_Hf3-4" source="szb_LFwqe0KTjWJn87do-2" target="ujQeHG0R-6USSkuK_Hf3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="szb_LFwqe0KTjWJn87do-5" value="Internet&lt;div&gt;gateway&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ujQeHG0R-6USSkuK_Hf3-4">
